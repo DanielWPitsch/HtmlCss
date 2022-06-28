@@ -1,0 +1,32 @@
+h1{
+    background-color: royalblue;
+}
+.classe1{
+        color: red;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+a:active{
+    color: green;
+}
+table,th {
+    border: 5px solid black;
+    border-color: rgb(112, 27, 197);
+    border-collapse: collapse; /*junta as bordas*/
+}
+td{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 15px;
+    border: 5px solid rgb(112, 27, 197) ;
+}
+td:hover{background-color: royalblue;}

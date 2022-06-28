@@ -1,0 +1,33 @@
+#header{
+    background-color: royalblue;
+    height: 10vh;
+    text-align: center;
+
+}
+#menu{
+    background-color: rgb(89, 201, 89);
+    text-align: center;
+    height: 80vh;
+    width: 15%;
+    float: left;
+}
+#main{
+    background-color: rgb(218, 99, 99);
+    height: 80vh;
+    text-align: center;
+    width: 70%;
+    float: left;
+}
+#right{
+    background-color: rgb(224, 119, 87);
+    height: 80vh;
+    text-align: center;
+    width: 15%;
+    float: left;
+}
+#footer{
+    background-color: rgb(194, 224, 87);
+    height: 10vh;
+    text-align: center;
+    clear: both;
+}
